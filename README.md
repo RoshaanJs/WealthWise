@@ -20,25 +20,16 @@
 
 ---
 
-## 🛠️ Technologies Used
-
-- **Java** (Core + Spring Boot)
-- **MySQL** (Database)
-- **JSP** + JSTL (Frontend)
-- **Hibernate / Spring Data JPA**
-- **JSoup** (For live gold rate web scraping)
-- **HTML/CSS** (UI styling)
-
----
-
 ## 📸 Screenshots
 
-> Add your screenshots here later (you can upload to GitHub and link them):
-```
-![Login Page](screenshots/login.png)
-![Assets Page](screenshots/assets.png)
-![Profit Tracker](screenshots/profit.png)
-```
+### 🔐 Login Page  
+![Login Page](https://github.com/user-attachments/assets/8f1529a5-a02d-422d-9f52-bed1fedf5229)
+
+### 🪙 Assets Page  
+![Assets Page](https://github.com/user-attachments/assets/299eee55-3d70-4f6b-9af7-cd48e8a953fe)
+
+### 🧾 Expense Tracker  
+![Expense Tracker](https://github.com/user-attachments/assets/6e337cfb-89ea-40bc-8319-f63675f0b012)
 
 ---
 
@@ -65,7 +56,18 @@
 
 ---
 
-## ⚙️ Project Structure
+## ⚙️ Technologies Used
+
+- **Java** (Core + Spring Boot)
+- **MySQL** (Database)
+- **JSP** + JSTL (Frontend)
+- **Hibernate / Spring Data JPA**
+- **JSoup** (For live gold rate web scraping)
+- **HTML/CSS** (UI styling)
+
+---
+
+## 📂 Project Structure
 
 ```
 src/
@@ -98,7 +100,7 @@ src/
 Made with 💜 by **Roshaan JS**
 
 - 📧 roshaan.js2002@gmail.com
-- 🌐 [RoshaanJs](https://github.com/RoshaanJs)
+- 🌐 [GitHub](https://github.com/RoshaanJs)
 
 ---
 
